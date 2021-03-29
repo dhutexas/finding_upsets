@@ -1,0 +1,64 @@
+round_slot,slot,team1_name,team2_name,region
+R1,Z8,North Carolina,Wisconsin,South
+R1,Z7,Florida,Virginia Tech,South
+R1,Z6,Texas Tech,Utah St,South
+R1,Z5,Villanova,Winthrop,South
+R1,Z4,North Texas,Purdue,South
+R1,Z3,Arkansas,Colgate,South
+R1,Z2,Ohio St,Oral Roberts,South
+R1,Z1,Baylor,Hartford,South
+R1,Y8,Georgia Tech,Loyola-Chicago,Midwest
+R1,Y7,Clemson,Rutgers,Midwest
+R1,Y6,San Diego St,Syracuse,Midwest
+R1,Y5,Oregon St,Tennessee,Midwest
+R1,Y4,Liberty,Oklahoma St,Midwest
+R1,Y3,Morehead St,West Virginia,Midwest
+R1,Y2,Cleveland St,Houston,Midwest
+R1,Y1,Drexel,Illinois,Midwest
+R1,X8,Missouri,Oklahoma,West
+R1,X7,Oregon,VCU,West
+R1,X6,Drake,USC,West
+R1,X5,Creighton,UC Santa Barbara,West
+R1,X4,Ohio,Virginia,West
+R1,X3,E Washington,Kansas,West
+R1,X2,Grand Canyon,Iowa,West
+R1,X1,Appalachian St,Gonzaga,West
+R1,W8,LSU,St Bonaventure,East
+R1,W7,Connecticut,Maryland,East
+R1,W6,BYU,UCLA,East
+R1,W5,Colorado,Georgetown,East
+R1,W4,Florida St,UNC Greensboro,East
+R1,W3,Abilene Chr,Texas,East
+R1,W2,Alabama,Iona,East
+R1,W1,Michigan,Mt St Mary's,East
+R2,Z4,North Texas,Villanova,South
+R2,Z3,Arkansas,Texas Tech,South
+R2,Z2,Florida,Oral Roberts,South
+R2,Z1,Baylor,Wisconsin,South
+R2,Y4,Oklahoma St,Oregon St,Midwest
+R2,Y3,Syracuse,West Virginia,Midwest
+R2,Y2,Houston,Rutgers,Midwest
+R2,Y1,Illinois,Loyola-Chicago,Midwest
+R2,X4,Creighton,Ohio,West
+R2,X3,Kansas,USC,West
+R2,X2,Iowa,Oregon,West
+R2,X1,Gonzaga,Oklahoma,West
+R2,W4,Colorado,Florida St,East
+R2,W3,Abilene Chr,UCLA,East
+R2,W2,Alabama,Maryland,East
+R2,W1,LSU,Michigan,East
+R3,Z2,Arkansas,Oral Roberts,South
+R3,Z1,Baylor,Villanova,South
+R3,Y2,Houston,Syracuse,Midwest
+R3,Y1,Loyola-Chicago,Oregon St,Midwest
+R3,X2,Oregon,USC,West
+R3,X1,Creighton,Gonzaga,West
+R3,W2,Alabama,UCLA,East
+R3,W1,Florida St,Michigan,East
+R4,Z1,Arkansas,Baylor,South
+R4,Y1,Houston,Oregon St,Midwest
+R4,X1,Gonzaga,USC,West
+R4,W1,Michigan,UCLA,East
+R5,YZ,,,Midwest
+R5,WX,,,East
+R6,CH,,,Final Four
