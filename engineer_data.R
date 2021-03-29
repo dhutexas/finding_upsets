@@ -66,9 +66,10 @@ data = elo %>%
   left_join(kenpom, by = c('team_kaggle', 'id_kaggle')) %>%
   left_join(massey_rat, by = c('team_kaggle', 'id_kaggle'))
 
+rm(crosswalk, elo, kenpom, massey_rat, seeds)
+
 # join slots/rounds to data
 data %<>%
-  #left_join(slots, by = c('Seed' = 'value')) %>%
   janitor::clean_names() %>%
   rename(seed_int = team_seed,
          elo = team_rating,
